@@ -1,0 +1,7 @@
+name: PerformanceEnhancer
+main: de.zDox.PerformanceEnhancer.main
+version: 1.0
+commands:
+  performenhance:
+    description: Your description
+    usage: /<command>
